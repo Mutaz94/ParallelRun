@@ -1,1 +1,1 @@
-"Parallel run" =
+CPU/GPU parallel computing
